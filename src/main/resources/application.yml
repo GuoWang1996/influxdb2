@@ -1,0 +1,6 @@
+spring:
+  influx:
+    token: Wl2VN9ASAHiRxcggnARVCG79ApXOLKy3w4Wrb_gXw9anG0hpU5qCyPIsr2E9uey5PPKRSmGeioPh4ve4QxoRpA==
+    org: test
+    bucket: Bucket02
+    url: http://127.0.0.1:8086/
